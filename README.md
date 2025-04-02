@@ -1,6 +1,46 @@
-# NewsApp
+# NewsApp Description
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0. It's a dynamic single page application. This app shows real time news which fetch news data from the public API of "The New York Times". 
+
+## Features Implemented
+
+- It's a responsive app which runs well on different screen sizes.
+- This app shows news into categories like Home(All type of News), Technology, Sports, Business.
+- There shows loading spinner when news data fetched.
+- There is a seperate navigation bar which manage the news into categories.
+- We can easily navigate the different type of news according to our choices.
+
+## Instructions to set up and run the project locally
+
+- Before running an Angular project, ensure you have the necessary tools installed:
+  Node.js & npm: Download and install from nodejs.org. Verify installation:
+  node -v
+  npm -v
+
+- Angular CLI: Install globally using npm:
+  npm install -g @angular/cli
+
+- Verify installation:
+  ng version
+
+- Open VS Code.
+  Click File → Open Folder and select your Angular project folder.
+
+- If you cloned or downloaded the project, install dependencies:
+  npm install
+
+- Use the integrated terminal in VS Code (Ctrl + `) and execute:
+  ng serve
+
+- This will:
+  Compile the project.
+  Start a development server.
+  Provide a local URL (e.g., http://localhost:4200/).
+
+- Once compiled successfully, open your browser and go to:
+  http://localhost:4200/
+
+To follow the above steps we can run this project locally.
 
 ## Development server
 
@@ -25,3 +65,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Screenshots of the Website
+
