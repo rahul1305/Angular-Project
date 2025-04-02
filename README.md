@@ -69,7 +69,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Screenshots of the Website
 ![image alt](https://github.com/rahul1305/Angular-Project/blob/cba6166a8f524c21e3e8f73fbb809cde982a3671/Screenshot%20(13).png)
 
-![image alt]()
+![image alt](https://github.com/rahul1305/Angular-Project/blob/dbdd8d771352609fe25ad3cea2512274b88effba/Screenshot%20(14).png)
 
 ![image alt]()
 
